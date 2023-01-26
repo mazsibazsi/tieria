@@ -1,0 +1,11 @@
+{
+    "port": 1965,
+    "directory": "./public",
+    "index": "index.gmi",
+    "rate": 500,
+    "redirect": {
+        "enabled": false,
+        "link": "gemini.circumlunar.space",
+        "permanent": false
+    }
+}
